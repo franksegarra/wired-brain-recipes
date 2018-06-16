@@ -1,2 +1,0 @@
-# wired-brain-recipes
-recipes
